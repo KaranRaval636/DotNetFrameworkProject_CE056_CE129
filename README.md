@@ -1,4 +1,4 @@
 # ExpenseTracker
 
-<h2>Shivam Kshirsagar<br /><hr />Romin
+<h2>Karan<br /><hr />Vishal
 </h2>
